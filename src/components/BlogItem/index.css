@@ -1,0 +1,22 @@
+.blog-item-container {
+  flex-grow: 1;
+  margin: auto;
+}
+.title-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.title {
+  color: #12022f;
+  font-size: 20px;
+}
+.date {
+  color: #616e7c;
+}
+.blog-desc {
+  color: #9aa5b1;
+}
+.line {
+  color: #9aa5b1;
+}
